@@ -1,0 +1,11 @@
+console.log("avanzar");
+console.log("tapar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("avanzar");
+console.log("tapar");
+console.log("avanzar");
+console.log("quitar");
+console.log("avanzar");
+console.log("quitar");
+console.log("avanzar");
